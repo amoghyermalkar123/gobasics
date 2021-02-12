@@ -1,11 +1,7 @@
 package main
 
-import "snippets/advancedGo"
+import "snippets/playground"
 
 func main() {
-
-	// playground.U()
-	// jsonpr.One()
-	// exer.TrialR()
-	advancedGo.E()
+	playground.UI()
 }

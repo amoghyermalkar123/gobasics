@@ -15,3 +15,12 @@ func JY() {
 		}
 	}
 }
+
+func AHAH() {
+	for {
+		if 3 < 5 {
+			break
+		}
+	}
+	fmt.Println("amogh")
+}
