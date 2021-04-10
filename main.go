@@ -1,7 +1,9 @@
 package main
 
-import "snippets/playground"
+import (
+	"snippets/playground"
+)
 
 func main() {
-	playground.UI()
+	playground.OAOW()
 }
