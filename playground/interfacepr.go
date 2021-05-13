@@ -1,0 +1,3 @@
+package playground
+
+// practising interfaces
