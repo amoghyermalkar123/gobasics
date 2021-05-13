@@ -1,9 +1,9 @@
 package main
 
 import (
-	"snippets/playground"
+	"snippets/security"
 )
 
 func main() {
-	playground.OAOW()
+	security.HlsServer()
 }
